@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🏫 UpgradeCourse - GitHub Pédagogique
 
-<!--
-**Upgradecourse/Upgradecourse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 **Bienvenue sur mon espace dédié à la formation en développement web et mobile !**  
+Vous trouverez ici des ressources pédagogiques, des exercices pratiques et des projets pour apprendre Git, GitHub et l'intégration continue.
 
-Here are some ideas to get you started:
+## 📌 Contenu
+-  Tutoriels et guides sur le développement web
+-  Projets et exercices pratiques
+-  Liens vers des ressources utiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
