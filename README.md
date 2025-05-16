@@ -7,7 +7,8 @@ Vous trouverez ici des ressources pédagogiques, des exercices pratiques et proj
 -  Tutoriels et guides sur le front-end
 -  Projets et exercices pratiques
 -  Liens vers des ressources utiles
--  Inititation à l'intégration continue.
+-  Inititation à l'[intégration continue](https://github.com/Upgradecourse/initiation-github-actions-fr)
+
 
 
 ---
